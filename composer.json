@@ -20,7 +20,7 @@
             "Gyf\\Packagetest\\PackagetestServiceProvider"
         ],
         "aliases": {
-            "Packagegyf": "Gyf\\Packagetest\\Facade\\Packagetest"
+            "Packagegyf": "Gyf\\Packagetest\\Facades\\Packagetest"
             }
         }
     }
