@@ -1,0 +1,17 @@
+{
+    "name": "gyf/builder-for-laravel",
+    "description": "crud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "justnice",
+            "email": "18782993275@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gyf\\Packagetest\\": "src/"
+        }
+    }
+}
